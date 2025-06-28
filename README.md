@@ -1,19 +1,15 @@
 ## Hi there 👋, I’m Lorenzo Cabrera-Vidales
 
-Student-athlete at IMG Academy exploring the intersection of **electrical engineering**, **finance**, and **systems thinking**.
+**Aspiring Electrical Engineer | Finance Enthusiast | Student @ IMG Academy**
 
-🔧 Building skills in CAD, circuits, and research. 
-
-🧠 Writing about my learning process at [My Blog](https://lorenzocabreravidales.notion.site)
-
-> “Stay steady. Keep building. Let the results talk.”
+📍 Miami, FL | ✉️ lorenzovcabrera@gmail.comm | [LinkedIn](https://www.linkedin.com/in/lorenzo-cabrera-vidales-a9623433b/) | [Blog](lorenzocabreravidales.notion.site)
 <!--
 **lorenzoc-v/lorenzoc-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...[Blog]
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
